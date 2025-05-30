@@ -1,3 +1,3 @@
 create_user:
   user.present:
-    - name: barman
+    - name: barman2
